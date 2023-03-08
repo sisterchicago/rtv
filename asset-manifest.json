@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rtv/static/css/main.7b51ef9f.css",
+    "main.js": "/rtv/static/js/main.d408425f.js",
+    "static/media/vote.jpg": "/rtv/static/media/vote.9cee386e3d21ab527398.jpg",
+    "index.html": "/rtv/index.html",
+    "main.7b51ef9f.css.map": "/rtv/static/css/main.7b51ef9f.css.map",
+    "main.d408425f.js.map": "/rtv/static/js/main.d408425f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b51ef9f.css",
+    "static/js/main.d408425f.js"
+  ]
+}
